@@ -24,7 +24,11 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nitin1sahu&" alt="nitin1sahu" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nitin1sahu&show_icons=true&locale=en" alt="nitin1sahu" /></p>
-<hr><hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin1sahu&show_icons=true&locale=en&layout=compact" alt="nitin1sahu" /></p>
+<style>
+  body {
+  background: blue;
+  }
+  </style>
 
 
