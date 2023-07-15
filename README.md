@@ -101,8 +101,3 @@
   <img src="https://streak-stats.demolab.com?user=nitin1sahu&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/nitin1sahu/nitin1sahu/output/snake.svg" alt="Snake animation" />
-
-###
