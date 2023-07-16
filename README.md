@@ -4,15 +4,7 @@
 
 ###
 
-<h1 align="center">You are on my Github Profile!</h1>
-
-###
-
-<h1 align="center">Hi 👋, I'm Nitin Sahu</h1>
-
-###
-
-<h2 align="center">A passionate frontend developer from India</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=40&duration=3000&pause=300&color=F7F7F7&background=000F3542&center=true&vCenter=true&width=800&height=80&lines=Hi+there+%F0%9F%91%8B;You+are+on+my+Github+Profile!;I'm+Nitin+Sahu;A+passionate+Front-End+developer+;from+INDIA)](https://git.io/typing-svg)
 
 ###
 
