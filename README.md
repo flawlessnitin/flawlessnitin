@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img height="400" src="https://wallpaperaccess.com/full/6697020.jpg"  />
 </div>
 
@@ -11,11 +11,11 @@
 
 ###
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/sahu-1-nitin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
@@ -82,16 +82,16 @@
 
 ###
 
-<h3 align="center">My Github stats 👀</h3>
+<h3 align="left">My Github stats 👀</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nitin1sahu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitin1sahu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=nitin1sahu&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nitin1sahu.nitin1sahu&left_color=tomato&right_color=black"  />
 </div>
 
