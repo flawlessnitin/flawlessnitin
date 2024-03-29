@@ -92,6 +92,6 @@
   <img src="https://streak-stats.demolab.com?user=nitin1sahu&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nitin1sahu.nitin1sahu&left_color=tomato&right_color=black"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nitin1sahu.nitin1sahu&left_color=tomato&right_color=black"  height="50"/>
 </div>
 
