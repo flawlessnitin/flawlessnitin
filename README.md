@@ -4,7 +4,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=40&duration=3000&pause=300&color=F78900&center=true&vCenter=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B;You+are+on+my+Github+Profile!;I'm+Nitin+Sahu;A+passionate+Front-End+developer+;from+Bharat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=900&size=40&duration=3000&pause=300&color=F78900&center=true&vCenter=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B;You+are+on+my+Github+Profile!;I'm+Nitin+Sahu;A+passionate+=Full-stack+developer+(MERN+stack)+;from+India)](https://git.io/typing-svg)
 ###
 
 <h4 align="left">🔭 I’m currently working on CodeRap - Code Together Project<br><br>🌱 I’m currently learning GSAP, CANVAS, React, Express and Mongo<br><br>💬 Ask me about Front-Web Dev part<br><br>📫 How to reach me sahunitin970@gmail.com<br><br>⚡ Fun fact I procrastinate alot</h4>
