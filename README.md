@@ -1,16 +1,7 @@
-<br clear="both">
-
 <img align="left" height="354" src="https://giffiles.alphacoders.com/178/178311.gif"  />
-
-###
-
-<br clear="both">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&duration=2000&pause=500&color=F700DD&width=435&lines=Radhe+Radhe+%F0%9F%A6%9A;I'm+Nitin;Full+Stack+Developer+based+in+India)](https://git.io/typing-svg)
 
-###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=flawlessnitin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph"  />
