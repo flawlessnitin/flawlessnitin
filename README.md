@@ -1,9 +1,4 @@
 <br clear="both">
-
-<h1 align="center">Radhe Radhe 🦚</h1>
-
-###
-
 <br clear="both">
 
 <div align="left">
