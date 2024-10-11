@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<h1 align="left">Radhe Radhe 🦚</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&duration=2000&pause=500&color=F700DD&width=435&lines=Radhe+Radhe+%F0%9F%A6%9A;I'm+Nitin;Full+Stack+Developer+based+in+India)](https://git.io/typing-svg)
 
 ###
 
