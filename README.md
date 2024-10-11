@@ -1,6 +1,6 @@
 <img align="left" height="354" src="https://giffiles.alphacoders.com/178/178311.gif"  />
 <br clear="both">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=2000&pause=500&color=F700DD&width=436&height=100&lines=Radhe+Radhe+%F0%9F%A6%9A;I'm+Nitin;Full+Stack+Developer+based+in+India" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=40&duration=2000&pause=500&color=F700DD&width=700&height=100&lines=Radhe+Radhe+%F0%9F%A6%9A;I'm+Nitin;Full+Stack+Developer+based+in+India" alt="Typing SVG" /></a>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=flawlessnitin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="170" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="170" alt="streak graph"  />
