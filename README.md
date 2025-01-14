@@ -4,23 +4,11 @@
 
 ---
 
-<h4 align="center">Radhe Radhe 🦚</h4>
+<h4 align="center">Radhe Radhe 🦚</h6>
 
-<h1 align="center">Junior Software Developer (SDE-1)</h1>
+<h1 align="center">Junior Software Developer (SDE-1)</h2>
 
-<h3 align="center">NITIN SAHU | <a href="https://flawlessnitin.live" target="_blank">flawlessnitin.live</a></h3>
-
----
-
-## 👤 About Me
-
-Hi there! I'm **Nitin Sahu**, a passionate and dedicated Junior Software Developer (SDE-1) with a knack for building scalable and user-friendly applications. With a focus on backend development, I specialize in creating seamless and efficient digital experiences. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or delving into creative pursuits like design and video editing.
-
-### Quick Facts:
-- 🌐 Personal Website: [flawlessnitin.live](https://flawlessnitin.live)
-- 💡 Currently exploring system design and advanced backend concepts.
-- 🎯 Goal: To become an expert in backend development and reach the top 1% globally in programming.
-- 🛠️ Always eager to learn, adapt, and innovate!
+<h3 align="center">NITIN SAHU | <a href="https://flawlessnitin.live" target="_blank">flawlessnitin.live</a></h5>
 
 ---
 
@@ -28,8 +16,8 @@ Hi there! I'm **Nitin Sahu**, a passionate and dedicated Junior Software Develop
 
 ### 🛠️ Technologies & Tools
 
-| **Category**         | **Technologies**                                                                                                                                                                                                 |
-|-----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Category**         | **Technologies**                                                                                      |
+|-----------------------|------------------------------------------------------------------------------------------------------|
 | **Languages**         | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | **Frameworks & Libraries** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) |
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
@@ -40,9 +28,9 @@ Hi there! I'm **Nitin Sahu**, a passionate and dedicated Junior Software Develop
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flawlessnitin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="180" alt="Stats Graph" />
-  <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="180" alt="Streak Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flawlessnitin&radius=16&theme=github-dark&area=true" height="320" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flawlessnitin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="Stats Graph" />
+  <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flawlessnitin&radius=16&theme=github-dark&area=true" height="300" alt="Activity Graph" />
 </div>
 
 ---
@@ -55,21 +43,23 @@ Hi there! I'm **Nitin Sahu**, a passionate and dedicated Junior Software Develop
 
 <div align="center">
   <h3>Follow Me</h3>
-  <a href="https://twitter.com/yourusername" target="_blank">
+  <a href="https://twitter.com/flawlessnitiin" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/flawlessnitin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/flawlessnitin" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
   </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
+  <a href="https://www.instagram.com/flawlessnitin" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" />
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://flawlessnitin.live" target="_blank">
     <img src="https://img.shields.io/badge/-Website-FF4F00?logo=googlechrome&logoColor=white&style=flat-square" alt="Website" />
   </a>
 </div>
 
 ---
+
+
