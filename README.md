@@ -4,11 +4,11 @@
 
 ---
 
-<h6 align="center">Radhe Radhe 🦚</h6>
+<h4 align="center">Radhe Radhe 🦚</h6>
 
-<h2 align="center">Junior Software Developer (SDE-1)</h2>
+<h1 align="center">Junior Software Developer (SDE-1)</h2>
 
-<h5 align="center">NITIN SAHU | <a href="https://flawlessnitin.live" target="_blank">flawlessnitin.live</a></h5>
+<h3 align="center">NITIN SAHU | <a href="https://flawlessnitin.live" target="_blank">flawlessnitin.live</a></h5>
 
 ---
 
