@@ -1,18 +1,6 @@
-<div align="center">
-  <img align="center" height="354" src="https://giffiles.alphacoders.com/178/178311.gif" alt="Radhe Radhe GIF" />
-</div>
+<h6 align="left">Radhe Radhe 🦚</h6>
 
----
-
-<h6 align="center">Radhe Radhe 🦚</h6>
-
-<h2 align="center">Junior Software Developer (SDE-1)</h2>
-
-<h5 align="center">NITIN SAHU | <a href="https://flawlessnitin.live" target="_blank">flawlessnitin.live</a></h5>
-
----
-
-<div align="center">
+<div align="left">
 
 ### 🛠️ Technologies & Tools
 
@@ -25,37 +13,7 @@
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flawlessnitin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="Stats Graph" />
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flawlessnitin&radius=16&theme=github-dark&area=true" height="300" alt="Activity Graph" />
-</div>
 
----
-
-<div align="center">
-  <h3>Follow Me</h3>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-FF4F00?logo=googlechrome&logoColor=white&style=flat-square" alt="Website" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/flawlessnitin/flawlessnitin/output/snake.svg" alt="Snake Animation" />
 </div>
