@@ -14,6 +14,6 @@
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="100" alt="Streak Graph" />
+  <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="120" alt="Streak Graph" />
 
 </div>
