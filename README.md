@@ -14,7 +14,7 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=flawlessnitin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="130" alt="Stats Graph" />
-  <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flawlessnitin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="Stats Graph" />
+  <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="Streak Graph" />
 
 </div>
