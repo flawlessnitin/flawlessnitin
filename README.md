@@ -4,8 +4,8 @@
 
 <h6 alight="left">What I do :)</h6>
 
-| **Category**         | **Technologies**                                                                                      |
-|-----------------------|------------------------------------------------------------------------------------------------------|
+| **Category**              | **Technologies**                                                                                           |
+|----------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Languages**         | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
 | **Frameworks & Libraries** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) |
 | **Databases**         | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
@@ -14,6 +14,7 @@
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="120" alt="Streak Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=flawlessnitin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="130" alt="Stats Graph" />
+  <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="130" alt="Streak Graph" />
 
 </div>
