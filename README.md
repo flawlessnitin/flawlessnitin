@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<h6 align="left">What I do :)</h6>
+<h6 align="left">What I do :) | Also visit me <a href="https://www.flawlessnitin.live">here</a></h6>
 
 | **Category**              | **Technologies**                                                                                           |
 |----------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -17,5 +17,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flawlessnitin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-### Radhe Radhe 🦚
