@@ -18,4 +18,7 @@
   <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<h6>Visit me <a href="https://www.flawlessnitin.live" target="_blank">here</a>.</h6>
+<div align="right">
+  <h6>Visit me <a href="https://www.flawlessnitin.live" target="_blank">here</a>.</h6>
+
+</div>
