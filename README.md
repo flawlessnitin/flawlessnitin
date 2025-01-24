@@ -20,7 +20,7 @@
 
 <div>
   <div align="left">
-    <h6>Turning caffeine into scalable solutions."</h6>
+    <p>🥱 Turning caffeine into scalable solutions.</h6>
   </div>
   <div align="right">
      <h6>Visit me <a href="https://www.flawlessnitin.live" target="_blank">here</a>.</h6>
