@@ -19,7 +19,7 @@
 </div>
 
 <div>
-  <div alight="">
+  <div style="display: flex; align-item: center; justify-content: space-between;">
     <h6 align="left">Turning caffeine into scalable solutions."</h6>
      <h6 alight="right">Visit me <a href="https://www.flawlessnitin.live" target="_blank">here</a>.</h6>
   </div>
