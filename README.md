@@ -18,7 +18,13 @@
   <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<div align="right">
+<div>
+  <div alight="left">
+    <h6>Turning caffeine into scalable solutions."</h6>
+  </div>
+  <div align="right">
   <h6>Visit me <a href="https://www.flawlessnitin.live" target="_blank">here</a>.</h6>
 
 </div>
+</div>
+
