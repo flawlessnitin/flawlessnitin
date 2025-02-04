@@ -15,7 +15,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flawlessnitin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
-   <a href="http://www.github.com/flawlessnitin"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=flawlessnitin&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+   <a href="http://www.github.com/flawlessnitin"><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=flawlessnitin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&order=2" /></a>
 </div>
 
 <div>
