@@ -34,6 +34,7 @@
   <tr>
     <td><b>🔧 Tools</b></td>
     <td>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS" />
       <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" alt="VS Code" />
       <img src="https://img.shields.io/badge/-AdobeXD-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge" alt="Adobe XD" />
       <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" alt="Photoshop" />
