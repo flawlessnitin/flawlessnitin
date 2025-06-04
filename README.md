@@ -44,11 +44,11 @@
   </tr>
 </table>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flawlessnitin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flawlessnitin&theme=radical&hide_border=true&background=0D1117" height="170" alt="streak graph" />
 </div>
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <td width="50%">
@@ -66,16 +66,12 @@
   </table>
 </div>
 
-<div align="center">
+<div align="right">
   <a href="https://www.flawlessnitin.live" target="_blank">
     <img src="https://img.shields.io/badge/Let's_Connect-Visit_My_Website-blue?style=for-the-badge&logo=web&logoColor=white" alt="Visit My Website" />
   </a>
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=flawlessnitin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
