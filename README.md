@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Artisan;Digital+Craftsman" alt="Typing SVG" />
-</p>
-
-<div align="center">
-  <a href="https://www.flawlessnitin.live" target="_blank">
-    <img src="https://img.shields.io/badge/Website-flawlessnitin.live-blue?style=for-the-badge&logo=firefox&logoColor=white" alt="Website Badge"/>
-  </a>
-</div>
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/technologist_1f9d1-200d-1f4bb.png" width="25"/> Tech Arsenal
-
 <table>
   <tr>
     <td><b>🔤 Languages</b></td>
@@ -56,15 +44,10 @@
   </tr>
 </table>
 
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/bar-chart_1f4ca.png" width="25"/> GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flawlessnitin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flawlessnitin&theme=radical&hide_border=true&background=0D1117" height="170" alt="streak graph" />
 </div>
-
-## <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png" width="25"/> About Me
-
 <div align="center">
   <table>
     <tr>
