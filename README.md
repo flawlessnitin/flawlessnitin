@@ -1,10 +1,4 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJlcnh5anNudm84ODQyZmFhM2Y0dzJzZHI3NjlsMXg1cnlqY2pyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR4F3m0QCzpdDvW/giphy.gif" width="100%" alt="Anime Programming GIF">
-</p>
-
-# <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/raised-hands_1f64c.gif" width="30"/> Radhe Radhe <img src="https://em-content.zobj.net/source/microsoft-teams/363/peacock_1f99a.png" width="30"/>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Code+Artisan;Digital+Craftsman" alt="Typing SVG" />
 </p>
 
