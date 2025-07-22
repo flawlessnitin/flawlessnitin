@@ -48,7 +48,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=flawlessnitin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" height="170" alt="languages graph" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=flawlessnitin&theme=radical&hide_border=true&background=0D1117" height="170" alt="streak graph" /> -->
-    <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=flawlessnitin&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 <div align="left">
   <table>
