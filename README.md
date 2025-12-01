@@ -82,7 +82,7 @@
 </div>
 
 <div align="right">
-  <a href="https://www.flawlessnitin.live" target="_blank">
+  <a href="https://www.flawlessnitin.com" target="_blank">
     <img src="https://img.shields.io/badge/Let's_Connect-Visit_My_Website-blue?style=for-the-badge&logo=web&logoColor=white" alt="Visit My Website" />
   </a>
 </div>
