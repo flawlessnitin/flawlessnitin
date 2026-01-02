@@ -1,3 +1,5 @@
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=flawlessnitin&theme=github-compact)
+
 <table>
   <tr>
     <td><b>🔤 Languages</b></td>
