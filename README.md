@@ -8,8 +8,8 @@ I work across the entire stack — React/Next.js frontends, Node.js/Fastify back
 
 ## 🔭 What I'm building
 
-### WebAR Product Viewer — "View in Your Room" for the web
-A browser-based AR experience (no app install) that lets users place 3D products in their physical space.
+### [AR-Magic](https://ar-magic.com) — "View in Your Room" for the web
+A browser-based WebAR experience (no app install) that lets users place 3D products in their physical space. **Live at [ar-magic.com](https://ar-magic.com).**
 
 ```mermaid
 flowchart LR
@@ -32,7 +32,6 @@ flowchart LR
 ### Other production work
 - **Creotek CRM** — full-stack CRM: backend APIs, React/Redux frontend, schema design, testing infrastructure
 - **PMS** — project management platform; led backend architecture and code review for the team
-- **Nexthouse / Sixth Sense** — [one-line description each — what problem, what you owned]
 
 ---
 
