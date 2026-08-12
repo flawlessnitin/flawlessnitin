@@ -30,7 +30,7 @@ flowchart LR
 - **LOD swapping over mesh streaming** — chose level-of-detail swaps for product-scale models; simpler, cacheable, and fast enough on 4G.
 
 ### Other production work
-- **Creotek CRM** — full-stack CRM: backend APIs, React/Redux frontend, schema design, testing infrastructure
+- **CRM** — full-stack CRM: backend APIs, React/Redux frontend, schema design, testing infrastructure
 - **PMS** — project management platform; led backend architecture and code review for the team
 
 ---
